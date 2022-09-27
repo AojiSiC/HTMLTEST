@@ -3,8 +3,8 @@
 <body>
 <style>
 model-viewer {
-  width: 600px;
-  height: 400px;
+  width: 450px;
+  height: 300px;
   background-color: #FFFFFF;
 }
 model-viewer#reveal {
